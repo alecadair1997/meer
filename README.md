@@ -1,0 +1,2 @@
+# meer
+Magic Mirror Project
